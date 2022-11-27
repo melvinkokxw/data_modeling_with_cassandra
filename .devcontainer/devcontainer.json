@@ -36,7 +36,8 @@
 				"inferrinizzard.prettier-sql-vscode",
 				"njpwerner.autodocstring",
 				"yzhang.markdown-all-in-one",
-				"mhutchie.git-graph"
+				"mhutchie.git-graph",
+				"GrapeCity.gc-excelviewer"
 			]
 		}
 	},
